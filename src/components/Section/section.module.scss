@@ -41,6 +41,7 @@
 .buttons {
   display: flex;
   margin-bottom: 30px;
+
   .button_1 {
     @include btn(rgba(23, 26, 32, 0.8), white);
 
